@@ -1,0 +1,32 @@
+{"listado": [
+    {
+        "nombre": "Paola Castelblanco",
+        "nota1": 5,
+        "nota2": 7,
+        "nota3": 9
+    },
+    {
+        "nombre": "Paula Romero",
+        "nota1": 8,
+        "nota2": 10,
+        "nota3": 8
+    },
+    {
+        "nombre": "Damian Posada",
+        "nota1": 9,
+        "nota2": 8,
+        "nota3": 10
+    },
+    {
+        "nombre": "Diego Torres",
+        "nota1": 5,
+        "nota2": 7,
+        "nota3": 10
+    },
+    {
+        "nombre": "Melany Bolivar",
+        "nota1": 10,
+        "nota2": 10,
+        "nota3": 10
+    }]    
+}
